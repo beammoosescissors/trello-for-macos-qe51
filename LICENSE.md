@@ -1,4 +1,4 @@
-
+Enhance Trello for macOS with top Extension for Trello for macOS - focus mode and custom themes, the #1 extension. Includes focus mode and custom themes for a smoother experience.
 
 
 
